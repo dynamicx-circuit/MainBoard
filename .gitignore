@@ -1,0 +1,9 @@
+/MainBoard-backups/
+/gerber/
+/production/
+
+fp-info-cache
+
+*.zip
+*.pdf
+*.kicad_prl
